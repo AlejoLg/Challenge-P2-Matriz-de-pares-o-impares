@@ -1,9 +1,19 @@
-
+""" Función que recibe una lista de listas y devuelve una del mismo tamaño pero con Booleanos,
+True si el número es par y False si es impar
+"""
 
 
 def matriz_pares(lista_de_listas):
-  
-    # Defino una nueva lista en la que se agregarán las listas nuevas
+    """ Recibo una lista de listas, itero cada lista y luego cada numero dentro de esas listas.
+    si el número es divisible por dos (tiene resto 0) le asigno un True en una nueva lista, sinó False.
+
+    Args:
+        lista_de_listas (str): Lista de listas de números entrantes.
+
+    Returns:
+        string: Lista nueva de números representados como True si son par o False si son Impar
+    """
+    # Defino una lista en la que se agregarán las listas nuevas
     lista_nueva = []
 
     # Itero por cada lista dentro de la lista de listas

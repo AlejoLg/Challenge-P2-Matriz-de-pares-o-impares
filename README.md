@@ -18,8 +18,11 @@ valor es par, y False si no lo es. ej: [ [1,2,3], [2,3,4], [4,5,6]] [ [1,2,3], [
 
 # aclaración p2 
 
+# p2
+Error de sintaxis en consigna 2, suplir abro y cierro de corchetes por "," 
+
 # p2 a
-En esta opción, creo una lista de lista nueva, para poder mostrar los booleanos según corresponda.
+En esta opción, creo una lista de listas nueva, para poder mostrar los booleanos según corresponda.
 
 # p2 b 
 En esta opción, directamente sobreescribo la lista principal para mostrar los booleanos según corresponda.

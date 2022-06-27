@@ -1,4 +1,4 @@
-""" Función que recibe un string de números separados por "," y los suma
+""" Resolución consigna 1
 """
 
 def sumar(numeros):
@@ -6,7 +6,7 @@ def sumar(numeros):
     e itero por cada número recibido para sumarlo a un acumulador que dará el resultado final
 
     Args:
-        numeros (str): String de números a sumarcd 
+        numeros (str): String de números a sumar
 
     Returns:
         float: Resultado de la suma de numeros provenientes del string
